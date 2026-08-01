@@ -139,6 +139,14 @@ AI Career Intelligence Platform built during Vibexathon.
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abduldon/abduldon/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
 # 🏆 Achievements
 
 🥈 NEXATHON'25 Runner-Up

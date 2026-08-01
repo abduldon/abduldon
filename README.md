@@ -66,6 +66,10 @@ AI career intelligence platform built during a 24-hour hackathon.
 💼 AI/ML Internship
 
 <p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=abduldon&theme=onedark&row=1&column=6"/>
+</p>
+
+<p align="center">
   <a href="./resume.pdf">
     <img src="https://img.shields.io/badge/📄%20Download%20Resume-blue?style=for-the-badge" />
   </a>

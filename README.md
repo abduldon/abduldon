@@ -1,16 +1,79 @@
-## Hi there 👋
+──────────────────────────────
+Animated Header
+──────────────────────────────
 
-<!--
-**abduldon/abduldon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Abdul Shuaib
 
-Here are some ideas to get you started:
+Typing Animation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+AI Engineer
+Data Analyst
+Hackathon Winner
+Full Stack Developer
+
+──────────────────────────────
+
+About Me
+
+🏆 Multiple Hackathon Winner
+🎓 CSE @ GCEM
+🤖 AI/ML Enthusiast
+📊 Data Analytics
+🚀 Building real-world products
+
+──────────────────────────────
+
+Tech Stack
+(animated icons)
+
+Python
+Java
+Flask
+Django
+React
+Firebase
+FastAPI
+TensorFlow
+OpenCV
+Git
+Linux
+
+──────────────────────────────
+
+GitHub Stats
+
+Contribution Snake Animation
+
+GitHub Streak
+
+Top Languages
+
+Activity Graph
+
+──────────────────────────────
+
+Featured Projects
+
+🚗 NexLot
+
+🏏 IPL Intelligence
+
+🎯 T7SkillUp
+
+──────────────────────────────
+
+Achievements
+
+🥈 NEXATHON Runner-Up
+
+🥈 Vibexathon Runner-Up
+
+🥈 GCEM Hackathon Runner-Up
+
+──────────────────────────────
+
+Let's Connect
+
+LinkedIn
+Portfolio
+Email

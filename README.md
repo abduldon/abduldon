@@ -65,10 +65,11 @@ AI career intelligence platform built during a 24-hour hackathon.
 
 💼 AI/ML Internship
 
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abduldon&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=abduldon&theme=onedark&row=1&column=6" alt="GitHub Trophies"/>
 </p>
 
 <p align="center">

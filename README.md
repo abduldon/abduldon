@@ -65,12 +65,16 @@ AI career intelligence platform built during a 24-hour hackathon.
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/abdul-shuaib-6a6308263/" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdul-shuaib-6a6308263/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
 
-<a href="mailto:abdulshuaib08@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
+  <a href="mailto:abdulshuaib08@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  </a>
+
+  <a href="https://www.instagram.com/heyy.abdulshuaib/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  </a>
 </p>

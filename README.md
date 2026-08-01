@@ -11,11 +11,13 @@
 </p>
 ## 👨‍💻 About Me
 
-- 🎓 CSE Student @ GCEM
-- 🤖 AI / ML Enthusiast
-- 📊 Data Analytics
-- 🏆 Multiple Hackathon Winner
-- 🚀 Building Real-World Projects
+I'm Abdul Shuaib, a Computer Science student passionate about Artificial Intelligence, Data Analytics and Full Stack Development.
+
+I enjoy building practical AI applications that solve real-world problems. My work includes intelligent parking systems, AI-powered IPL analytics, career intelligence platforms, and classroom engagement monitoring systems.
+
+🏆 Multiple Hackathon Runner-Up
+💼 AI/ML Intern
+🎯 Currently looking for AI/ML & Data Analyst opportunities.
 
 ## 💻 Tech Stack
 
@@ -62,6 +64,14 @@ AI career intelligence platform built during a 24-hour hackathon.
 🥈 GCEM Hackathon Runner-Up
 
 💼 AI/ML Internship
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=abduldon&theme=tokyonight&no-frame=true&margin-w=15"/>
+
+</p>
 
 ## 🌐 Connect With Me
 
